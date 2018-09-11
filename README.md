@@ -1,1 +1,1 @@
-# Face_Recog_PCA
+# Facial-Recognition-using-Principal-Component-Analysis
